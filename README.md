@@ -19,7 +19,7 @@ Amazon S3: Para armazenar e compartilhar arquivos com segurança na nuvem, será
 Relatório de implementação de serviços AWS:
 Data de início do projeto: 01/05/2023
 Empresa: Abestergo Industries
-Responsável pelo projeto: João Silva
+Responsável pelo projeto: Ivertton Stefanini
 
 Este relatório descreve o processo de implementação de serviços AWS para a empresa Abestergo Industries. O objetivo do projeto foi migrar a infraestrutura local da empresa para a nuvem da AWS, a fim de melhorar a eficiência dos processos e aumentar a segurança dos dados.
 
