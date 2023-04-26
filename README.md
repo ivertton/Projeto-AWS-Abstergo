@@ -1,13 +1,14 @@
 # Projeto-AWS-Abstergo
 ### Abestergo Industries é uma empresa global líder no setor de tecnologia
 
-Introdução:
+#### Introdução:
+
 A computação em nuvem é uma das tecnologias mais importantes do mundo atual, permitindo que empresas e indivíduos acessem recursos de computação de alta qualidade sem investimentos em hardware e infraestrutura. A Amazon Web Services (AWS) é uma das principais provedoras de serviços de nuvem, oferecendo uma ampla gama de serviços para atender às necessidades de seus clientes. Neste projeto, iremos implementar serviços AWS para a empresa Abestergo Industries, a fim de melhorar sua infraestrutura de computação e aumentar a eficiência de seus processos.
 
-Descrição do projeto:
+#### Descrição do projeto:
 Abestergo Industries é uma empresa global líder no setor de tecnologia, com filiais em todo o mundo. A empresa está buscando implementar serviços AWS para melhorar sua infraestrutura de TI e aumentar a eficiência de seus processos. O objetivo geral do projeto é migrar a infraestrutura local da empresa para a nuvem, permitindo que ela tenha acesso a recursos de computação escaláveis, seguros e confiáveis. Além disso, a empresa busca implementar serviços de segurança da AWS, como o AWS Shield, para proteger seus dados e sistemas contra ameaças.
 
-Ferramentas do processo:
+#### Ferramentas do processo:
 
 Amazon EC2: Nessa etapa, a infraestrutura de TI da empresa será implementada na nuvem da AWS. Será configurado o Amazon EC2, permitindo a criação de instâncias de máquinas virtuais escaláveis e seguras, que poderão ser acessadas de qualquer lugar do mundo.
 
